@@ -62,7 +62,7 @@ CETV早期教育,http://106.116.3.207:8890/udp/239.254.201.230:7253
 重庆卫视,http://39.134.240.3/PLTV/2/224/3221225966/index.m3u8
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://183.215.116.132:6610/180000001001/00000001000000000022000000381024/main.m3u8?IASHttpSessionId=OTT
 农林卫视,http://183.215.116.132:6610/000000001000/2000000003000000046/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000046
-大湾区卫视,http://117.72.68.25:9930/migu.php?id=dwqws#http://183.215.116.132:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
+大湾区卫视,http://rihou.cc:567/aikan.php?id=dwqws#http://183.215.116.132:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
 数字频道,#genre#
 电视指南,http://183.215.116.132:6610/180000001001/00000001000000000091000000244797/main.m3u8?IASHttpSessionId=OTT
 第一剧场,http://183.215.116.132:6610/180000001001/00000001000000000091000000244808/main.m3u8?IASHttpSessionId=OTT
@@ -116,10 +116,10 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 梨园频道,http://183.215.116.132:6610/180000001001/00000001000000000064000000308847/main.m3u8?IASHttpSessionId=OTT
 文物宝库,http://183.215.116.132:6610/180000001001/00000001000000000064000000308848/main.m3u8?IASHttpSessionId=OTT
 国学频道,http://www.huakangyaoye.cn:8800/udp/225.1.2.129:11674#http://171.8.168.31:8800/udp/239.16.20.232:12320#http://106.116.3.207:8890/rtp/239.254.200.107:6255#http://l8221706.xiahouyuhan.icu/bfgd.php?id=169
-中学生频道,http://117.72.68.25:9930/migu.php?id=zxs#http://106.116.3.207:8890/rtp/239.254.200.113:6243
+中学生频道,http://rihou.cc:567/aikan.php?id=zxs#http://106.116.3.207:8890/rtp/239.254.200.113:6243
 环球旅游,http://183.215.116.132:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 车迷频道,http://183.215.116.132:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
-发现之旅,http://117.72.68.25:9930/migu.php?id=fxzl#http://117.114.153.18:8180/TV00000000000000000131@HHZT#http://l8221706.xiahouyuhan.icu/bfgd.php?id=151
+发现之旅,http://rihou.cc:567/aikan.php?id=fxzl#http://117.114.153.18:8180/TV00000000000000000131@HHZT#http://l8221706.xiahouyuhan.icu/bfgd.php?id=151
 老故事,http://183.215.116.132:6610/180000001001/00000001000000000050000000448839/main.m3u8?IASHttpSessionId=OTT
 中华美食,http://106.116.3.207:8890/rtp/239.254.201.189:7171#http://183.215.116.132:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
 中华特产,http://183.215.116.132:6610/180000001001/00000001000000000050000000448845/main.m3u8?IASHttpSessionId=OTT
@@ -181,7 +181,7 @@ HOY资讯台,P2p://generationnexxxt.com:19806/f40dc92cdc224868b83be4156ec315dc
 Hands Up,P2p://generationnexxxt.com:19806/7c21e515d5264c9fa21035456fd5024a
 now新闻台,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74#P2p://generationnexxxt.com:19806/b9ba3f0b06b14fe69ac2cbf51c77d816
 澳门-MACAU,P2p://generationnexxxt.com:19806/b08e564af8cf49e2a0fadaf4978a04cf#P2p://generationnexxxt.com:19806/a2bbc4a4feec4168804624c67fdea801
-澳门莲花,P2p://generationnexxxt.com:19806/cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8#P2p://generationnexxxt.com:19806/f7ac1f0fdbe64fcc82cee29e0b590242
+澳门莲花,P2p://generationnexxxt.com:19806/cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8#P2p://generationnexxxt.com:19806/f7ac1f0fdbe64fcc82cee29e0b590242#http://php.jdshipin.com:8880/amlh.php
 澳亚卫视,http://117.114.153.18:8180/TV00000000000000000117@HHZT#http://119.125.134.177:9901/tsfile/live/1073_1.m3u8#http://119.34.189.38:33333/udp/224.1.100.12:11111#https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#http://107.151.203.111:2209/135/hk.php?id=aoya
 澳视澳门,http://119.125.134.177:9901/tsfile/live/1033_1.m3u8#http://119.125.131.239:9901/tsfile/live/1037_1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=ff1e7f2a8eaa2f867764a88f-172828094928173&wsIPSercert=fbb888f3f7e5ef0f616a5f07a3b5ba5a
@@ -365,7 +365,7 @@ EYE TV戏剧台,P2p://generationnexxxt.com:19806/bffdd8e7cb994d9e80a697632cf0a40
 东森购物1台,P2p://generationnexxxt.com:19806/21dbc6f9b1e141f4bbda7573d9af70a9
 东森购物2台,P2p://generationnexxxt.com:19806/50299f66ecb24fe1964c5c7818118527
 TechStorm,P2p://generationnexxxt.com:19806/9e84e7f44550435a91e4d0d92cc0147f
-年代新闻,P2p://generationnexxxt.com:19806/f8c807d770a8429da9d058b516902907
+年代新闻,P2p://generationnexxxt.com:19806/f8c807d770a8429da9d058b516902907#http://211.72.65.236:8539/.m3u8
 中天新闻台(B),P2p://147.135.39.171:9906/668829a300087a07bea90b34300003a6
 纬来育乐台(B),P2p://generationnexxxt.com:19806/582d689b3362424fbf99541335e57ba2
 纬来电影台(B),P2p://generationnexxxt.com:19806/c919ad41b4a9444bbc9fdf332a13724d
