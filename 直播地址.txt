@@ -195,9 +195,9 @@ now新闻台,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74#P
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8
 港台电视31台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk31_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31#P2p://generationnexxxt.com:19806/c7cd517a9e5b44a9b6037c90f998627f#https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 港台电视32台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=rhk32_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32#P2p://generationnexxxt.com:19806/8ef4a2b7bac54aba8b17dfd2071df91f#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
-港台电视33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-港台电视34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-港台电视35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+港台电视33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8#https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+港台电视34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+港台电视35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8#https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 港台电视36台,P2p://generationnexxxt.com:19806/669b838b000a6b509fbd6a5e20670d8d
 星空卫视,http://114.105.171.50:9901/tsfile/live/0117_1.m3u8#http://colony.synology.me:8188/udp/239.93.0.156:2193#http://117.114.153.18:8180/TV00000000000000000071@HHZT#http://13457610200.8866.org:2018/live/星空卫视/index.m3u8#http://119.129.172.197:8081/hls/18/index.m3u8#http://wouu.net:9977/udp/239.93.0.156:2193#P2p://generationnexxxt.com:19806/e8fc863e98694c568c1abf29190c149c
 ChannelV,http://114.105.171.50:9901/tsfile/live/0141_2.m3u8#http://colony.synology.me:8188/udp/239.93.0.157:2194#http://117.114.153.18:8180/TV00000000000000000067@HHZT#http://wouu.net:9977/udp/239.93.0.157:2194#P2p://generationnexxxt.com:19806/b0e9c93b93a140df812f05eb754072a0
